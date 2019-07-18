@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/silas/.dotnet/store/|arch|/|tfm|",
+      "/home/silas/.nuget/packages",
+      "/home/silas/projects/dotnet-core/sdk/NuGetFallbackFolder"
+    ]
+  }
+}
