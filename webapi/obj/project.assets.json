@@ -12068,6 +12068,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
+      "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
@@ -12079,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/silas/projects/portfolio/client-data-collector/webapi/webapi.csproj",
+      "projectUniqueName": "/home/silas/projects/ClientDataCollector/webapi/webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "/home/silas/projects/portfolio/client-data-collector/webapi/webapi.csproj",
+      "projectPath": "/home/silas/projects/ClientDataCollector/webapi/webapi.csproj",
       "packagesPath": "/home/silas/.nuget/packages/",
-      "outputPath": "/home/silas/projects/portfolio/client-data-collector/webapi/obj/",
+      "outputPath": "/home/silas/projects/ClientDataCollector/webapi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/home/silas/projects/dotnet-core/sdk/NuGetFallbackFolder"
@@ -12116,6 +12117,10 @@
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Cors": {
+            "target": "Package",
+            "version": "[2.2.0, )"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
