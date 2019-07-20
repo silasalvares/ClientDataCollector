@@ -3,7 +3,7 @@
     "additionalProbingPaths": [
       "/home/silas/.dotnet/store/|arch|/|tfm|",
       "/home/silas/.nuget/packages",
-      "/home/silas/projects/dotnet-core/sdk/NuGetFallbackFolder"
+      "/home/silas/App/lib/dotnet-sdk/sdk/NuGetFallbackFolder"
     ]
   }
 }

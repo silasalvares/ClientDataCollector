@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/silas/projects/ClientDataCollector/webapi/webapi.csproj": {}
+    "/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/webapi.csproj": {}
   },
   "projects": {
-    "/home/silas/projects/ClientDataCollector/webapi/webapi.csproj": {
+    "/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/silas/projects/ClientDataCollector/webapi/webapi.csproj",
+        "projectUniqueName": "/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "/home/silas/projects/ClientDataCollector/webapi/webapi.csproj",
+        "projectPath": "/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/webapi.csproj",
         "packagesPath": "/home/silas/.nuget/packages/",
-        "outputPath": "/home/silas/projects/ClientDataCollector/webapi/obj/",
+        "outputPath": "/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/home/silas/projects/dotnet-core/sdk/NuGetFallbackFolder"
+          "/home/silas/App/lib/dotnet-sdk/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "/home/silas/.nuget/NuGet/NuGet.Config"
@@ -53,6 +53,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

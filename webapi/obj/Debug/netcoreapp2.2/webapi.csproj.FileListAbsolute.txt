@@ -54,3 +54,17 @@
 /home/silas/projects/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.RazorTargetAssemblyInfo.cache
 /home/silas/projects/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.dll
 /home/silas/projects/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.pdb
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.csprojAssemblyReference.cache
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.csproj.CoreCompileInputs.cache
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.RazorAssemblyInfo.cache
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.RazorAssemblyInfo.cs
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.AssemblyInfoInputs.cache
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.AssemblyInfo.cs
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/bin/Debug/netcoreapp2.2/webapi.deps.json
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/bin/Debug/netcoreapp2.2/webapi.runtimeconfig.json
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/bin/Debug/netcoreapp2.2/webapi.runtimeconfig.dev.json
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/bin/Debug/netcoreapp2.2/webapi.dll
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/bin/Debug/netcoreapp2.2/webapi.pdb
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.RazorTargetAssemblyInfo.cache
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.dll
+/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/Debug/netcoreapp2.2/webapi.pdb
