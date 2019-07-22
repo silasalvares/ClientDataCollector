@@ -1,0 +1,11 @@
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/bin/Debug/netcoreapp2.2/robot.deps.json
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/bin/Debug/netcoreapp2.2/robot.runtimeconfig.json
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/bin/Debug/netcoreapp2.2/robot.runtimeconfig.dev.json
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/bin/Debug/netcoreapp2.2/robot.dll
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/bin/Debug/netcoreapp2.2/robot.pdb
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/obj/Debug/netcoreapp2.2/robot.csprojAssemblyReference.cache
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/obj/Debug/netcoreapp2.2/robot.csproj.CoreCompileInputs.cache
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/obj/Debug/netcoreapp2.2/robot.AssemblyInfoInputs.cache
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/obj/Debug/netcoreapp2.2/robot.AssemblyInfo.cs
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/obj/Debug/netcoreapp2.2/robot.dll
+/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/obj/Debug/netcoreapp2.2/robot.pdb

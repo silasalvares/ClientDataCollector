@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/webapi.csproj": {}
+    "/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/robot.csproj": {}
   },
   "projects": {
-    "/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/webapi.csproj": {
+    "/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/robot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/webapi.csproj",
-        "projectName": "webapi",
-        "projectPath": "/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/webapi.csproj",
+        "projectUniqueName": "/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/robot.csproj",
+        "projectName": "robot",
+        "projectPath": "/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/robot.csproj",
         "packagesPath": "/home/silas/.nuget/packages/",
-        "outputPath": "/home/silas/Dev/projects/web-apps/ClientDataCollector/webapi/obj/",
+        "outputPath": "/home/silas/Dev/projects/web-apps/ClientDataCollector/robot/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/home/silas/App/lib/dotnet-sdk/sdk/NuGetFallbackFolder"
@@ -39,24 +39,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
+            "Linq": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Cors": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.Http": {
-              "target": "Package",
-              "version": "(, )"
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[0.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -71,6 +58,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
             }
           },
           "imports": [
